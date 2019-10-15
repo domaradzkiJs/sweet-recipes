@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sweet-recipes/static/css/main.f41a935e.chunk.css",
+    "main.js": "/sweet-recipes/static/js/main.d3f519e9.chunk.js",
+    "main.js.map": "/sweet-recipes/static/js/main.d3f519e9.chunk.js.map",
+    "runtime-main.js": "/sweet-recipes/static/js/runtime-main.a09c8abb.js",
+    "runtime-main.js.map": "/sweet-recipes/static/js/runtime-main.a09c8abb.js.map",
+    "static/js/2.f6fa5f26.chunk.js": "/sweet-recipes/static/js/2.f6fa5f26.chunk.js",
+    "static/js/2.f6fa5f26.chunk.js.map": "/sweet-recipes/static/js/2.f6fa5f26.chunk.js.map",
+    "index.html": "/sweet-recipes/index.html",
+    "precache-manifest.8f192e3d3b176da85870cdfd980e1a10.js": "/sweet-recipes/precache-manifest.8f192e3d3b176da85870cdfd980e1a10.js",
+    "service-worker.js": "/sweet-recipes/service-worker.js",
+    "static/css/main.f41a935e.chunk.css.map": "/sweet-recipes/static/css/main.f41a935e.chunk.css.map",
+    "static/media/App.scss": "/sweet-recipes/static/media/like.d654ce19.svg",
+    "static/media/search.b53323c3.svg": "/sweet-recipes/static/media/search.b53323c3.svg"
+  }
+}
